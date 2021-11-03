@@ -1,2 +1,2 @@
 # Simple-calculator-
-This code only can use in terminal. 
+This code can only use in terminal. 
