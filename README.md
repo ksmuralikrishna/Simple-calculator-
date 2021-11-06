@@ -1,2 +1,2 @@
 # Simple-calculator-
-This code can only use in terminal. 
+This is done using function() method. 
